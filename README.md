@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **faustoyuuki@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ fausto-yuuki](www.linkedin.com/in/ fausto-yuuki)
+- 📄 Know about my experiences [https://www.linkedin.com/in/fausto-yuuki/](https://www.linkedin.com/in/fausto-yuuki/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
