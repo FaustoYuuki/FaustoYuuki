@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, My name is Fausto Yuuki</h1>
 <h3 align="center">Data Analyst</h3>
 
-<h3 align="center">About Me:</h3>
-
 As a bachelor's student in Computer Engineering at the Federal Institute of Mato Grosso, I'm taking the first steps on my journey into the world of computing and, more specifically, into the exciting area of data.
 
 Although I don't yet have any practical experience in the industry, my passion and curiosity for data analysis are driving my daily learning. I am committed to acquiring the necessary skills to become a competent professional in this constantly evolving field.
