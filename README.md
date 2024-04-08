@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, My name is Fausto Yuuki</h1>
-<h3 align="center">Data Analyst</h3>
+<h1 align="center">Olá 👋, Meu nome é Fausto Yuuki</h1>
+<h3 align="center">Analista de Dados</h3>
 
-As a bachelor's student in Computer Engineering at the Federal Institute of Mato Grosso, I'm taking the first steps on my journey into the world of computing and, more specifically, into the exciting area of data.
+Como um estudante de bacharelado em Engenharia da Computação no Instituto Federal de Mato Grosso, estou dando os primeiros passos na minha jornada rumo ao mundo da computação e, mais especificamente, à empolgante área de dados.
 
-Although I don't yet have any practical experience in the industry, my passion and curiosity for data analysis are driving my daily learning. I am committed to acquiring the necessary skills to become a competent professional in this constantly evolving field.
+Apesar de ainda não ter experiência prática na indústria, minha paixão e curiosidade pela análise de dados são motores que impulsionam meu aprendizado diário. Estou comprometido em adquirir as habilidades necessárias para me tornar um profissional competente nesse campo em constante evolução.
 
-I am currently focused on mastering the Python programming language, recognized for its usefulness and applicability in data science projects. Through online courses, tutorials and personal projects, I am exploring the various libraries and tools available in Python for data analysis and visualization.
+Atualmente, estou focado em dominar a linguagem de programação Python, reconhecida por sua utilidade e aplicabilidade em projetos de ciência de dados. Através de cursos online, tutoriais e projetos pessoais, estou explorando as diversas bibliotecas e ferramentas disponíveis em Python para análise e visualização de dados.
 
-My goal is to make the most of my academic experience, absorbing solid theoretical knowledge in areas such as statistics, mathematics and algorithms, while continuing to develop my practical skills through personal projects and collaborations with colleagues.
+Meu objetivo é aproveitar ao máximo minha experiência acadêmica, absorvendo conhecimentos teóricos sólidos em áreas como estatística, matemática e algoritmos, enquanto continuo a desenvolver minhas habilidades práticas por meio de projetos pessoais e colaborações com colegas.
 
-Although I'm only at the beginning of my journey, I'm determined to work hard, learn continuously and make a significant contribution to the field of data in the future.
+Embora esteja apenas no início da minha jornada, estou determinado a trabalhar duro, aprender continuamente e fazer uma contribuição significativa para a área de dados no futuro.
 
-- 🌍 I'm based in **Cuiabá, Brazil.**
+- 🌍 Estou baseado em **Cuiabá, Brasil.**
 
-- 🧠 I’m currently learning **Power BI, Big Data and Machine Learning.**
+- 🧠 Atualmente estou aprendendo **Power BI, Big Data and Machine Learning.**
 
-- 📫 How to reach me **faustoyuuki@gmail.com**
+- 📫 Como chegar até mim **faustoyuuki@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
