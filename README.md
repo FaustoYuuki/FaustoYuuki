@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Fausto Yuuki</h1>
-<h3 align="center">I'm a Back-End Developer</h3>
+<h1 align="center">Hi 👋, My name is Fausto Yuuki</h1>
+<h3 align="center">Data Analyst</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌍 I'm based in **Cuiabá, Brazil.**
+
+- 🧠 I’m currently learning **Power BI, Big Data and Machine Learning.**
 
 - 📫 How to reach me **faustoyuuki@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/fausto-yuuki/](https://www.linkedin.com/in/fausto-yuuki/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
