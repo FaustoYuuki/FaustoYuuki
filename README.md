@@ -13,7 +13,7 @@ Embora esteja apenas no início da minha jornada, estou determinado a trabalhar 
 
 - 🌍 Estou baseado em **Cuiabá, Brasil.**
 
-- 🧠 Atualmente estou aprendendo **Power BI, Big Data and Machine Learning.**
+- 🧠 Atualmente estou aprendendo **Power BI, Big Data e Machine Learning.**
 
 - 📫 Como chegar até mim **faustoyuuki@gmail.com**
 
